@@ -2,7 +2,7 @@
 From Word2Vec to Char-RNN to GPT-2 — and who knows, perhaps GPT-6 is just around the corner. I've been using ChatGPT for three years now. I started with ChatGPT Plus for coding back in 2022, and from 2023 onward, I've been exploring AI tools for fun. It's no secret that programmers face an uncertain future. [define levels of GPT 2023](https://github.com/goog/gpt-level)  
 
 Today, I want to talk about the *intelligence*, which depends on big data. more cases more smart.  
-For example, an agent should be smart enough to build a React web app, but perhaps not as smart when building a Python-rich library tool. I have gained several valuable insights from using AI tools.
+For example, an agent should be smart enough to build a React web app, but perhaps not as smart when building a Python rich library tool. I have gained several valuable insights from using AI tools.
 
 some moments I feel AI **very smart**:
 1. when chatgpt comes out, it has much knowledge
@@ -34,10 +34,10 @@ when one agent may have many skills and run well so it could replace some human.
 4. [can1357/oh-my-pi: ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more](https://github.com/can1357/oh-my-pi)
 
 ## Time flows fast
-  I signed up chatgpt in 2023.02. After three years, AI models shares have changed a lot.
+I signed up chatgpt in 2023.02. After three years, the market share of AI models has changed a lot.
 Chatgpt does not give me some suprise any more but I still waitting for the GPT-6. 
 Claude help me code projects, LLM models mimo and minimax help feed the openClaw.
-In 2025, LLMs have made tremendous strides; their capabilities have expanded significantly, and—now able to program—they can automate a vast array of tasks. Consequently, many people have lost their jobs—particularly programmers in developing countries, who may find themselves facing severe financial hardship.
+In 2025, LLMs have made tremendous strides; Their abilities have grown a lot, and now that they seems master programming, they can automate tons of tasks. Consequently, many people have lost their jobs—particularly programmers in developing countries, who may find themselves facing severe financial hardship.
 >And you realise you did not choose any of the changes. They happened while you were looking the other way, and now they are your life. -- ifthisroad.com>
 
 ~~No matter you choose or not, some changes have changed.~~
